@@ -1,0 +1,29 @@
+[project]
+name = "suih-bot"
+version = "0.1.0"
+description = "花碎 - 基于 NoneBot2 的 QQ 机器人"
+authors = [{ name = "花碎", email = "242605129@qq.com" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "nonebot2[fastapi]>=2.3.0",
+    "nonebot-adapter-onebot>=2.4.0",
+    "nonebot-plugin-llmchat>=0.5.0",
+    "nonebot-plugin-resolver2>=0.3.0",
+    "nonebot-plugin-poke>=0.3.0",
+    "nonebot_plugin_easy_translate>=0.2.4",
+]
+
+[project.optional-dependencies]
+dev = ["nb-cli>=1.7.0"]
+
+[tool.nonebot]
+adapters = [
+    { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
+]
+plugins = [
+    "nonebot_plugin_llmchat",
+    "nonebot_plugin_resolver2",
+    "nonebot_plugin_poke",
+    "nonebot_plugin_easy_translate",
+]
