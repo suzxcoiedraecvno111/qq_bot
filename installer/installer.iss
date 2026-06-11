@@ -4,7 +4,7 @@
 #define MyAppName "花碎机器人"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "花碎"
-#define MyAppURL "https://github.com/242605129/HuSuiBot"
+#define MyAppURL "https://github.com/suzxcoiedraecvno111/qq_bot"
 #define MyAppExeName "start_bot.bat"
 
 [Setup]

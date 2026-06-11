@@ -13,4 +13,4 @@
 5. 确保 NapCat 或其他协议端已启动并连接到 8081 端口
 6. 双击「启动机器人」快捷方式运行
 
-有任何问题请访问：https://github.com/242605129/HuSuiBot
+有任何问题请访问：https://github.com/suzxcoiedraecvno111/qq_bot

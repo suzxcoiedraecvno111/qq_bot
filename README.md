@@ -26,8 +26,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/242605129/HuSuiBot.git
-cd HuSuiBot
+git clone https://github.com/suzxcoiedraecvno111/qq_bot.git
+cd qq_bot
 ```
 
 ### 2. 创建虚拟环境并安装依赖
@@ -116,7 +116,7 @@ ai_system_prompt="你的人设提示词"
 
 ## 📦 一键部署（Windows）
 
-下载安装包：[HuSuiBot_Setup.exe](https://github.com/242605129/HuSuiBot/releases)（Releases 页面）
+下载安装包：[HuSuiBot_Setup.exe](https://github.com/suzxcoiedraecvno111/qq_bot/releases)（Releases 页面）
 
 安装包会自动部署 Python 环境、安装依赖、创建快捷方式。
 
