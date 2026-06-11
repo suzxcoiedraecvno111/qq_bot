@@ -64,7 +64,7 @@ cp .env.example .env     # Linux/macOS
 
 #### 方式 A：NapCat（推荐）
 
-1. 下载 [NapCat.Shell.Windows.OneKey](https://github.com/NapNeko/NapCat-Shell-Windows-OneKey/releases)
+1. 下载 [NapCat.Shell.Windows.OneKey.zip](https://github.com/NapNeko/NapCatQQ/releases)（在 Releases 中下载）
 2. 解压后运行 `napcat.bat`，扫码登录 QQ
 3. NapCat 默认在 `ws://127.0.0.1:8081` 提供 OneBot WebSocket 接口
 
